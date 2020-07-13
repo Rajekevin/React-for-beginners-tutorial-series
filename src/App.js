@@ -9,7 +9,6 @@ function App() {
   return (
     <div>
        <Header />
-
        <Footer />
     </div>
     // <div className="App">
