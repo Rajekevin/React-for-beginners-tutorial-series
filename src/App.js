@@ -18,8 +18,7 @@ function App() {
   return (
     <div>
       <Router>
-       <Header />
-     
+       <Header />     
             <div className="p-3">
               <Switch>     
                 <Route exact path="/">       
