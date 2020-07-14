@@ -38,7 +38,6 @@ function Product(){
         })
     }, [url_api])
 
-
     if(product.error){
         content= <p> There was an error please refresh or try again later</p>
     }
